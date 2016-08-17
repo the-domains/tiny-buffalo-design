@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-17T19:28:56.779Z'
+datePublished: '2016-08-17T21:52:29.364Z'
 sourcePath: _posts/2016-08-17-what-does-going-freelance-gain-you.md
 author: []
 via: {}
@@ -14,7 +14,7 @@ metadata:
   author: []
   publisher: {}
   via: {}
-dateModified: '2016-08-17T19:28:56.137Z'
+dateModified: '2016-08-17T21:52:28.494Z'
 title: WHAT DOES GOING FREELANCE GAIN YOU?
 id: 7bce1e7d-06fb-44f5-b0af-474e191684d1
 publisher: {}
