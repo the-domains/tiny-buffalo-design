@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-17T21:52:29.364Z'
+datePublished: '2016-08-17T21:59:53.610Z'
 sourcePath: _posts/2016-08-17-what-does-going-freelance-gain-you.md
 author: []
 via: {}
@@ -14,7 +14,7 @@ metadata:
   author: []
   publisher: {}
   via: {}
-dateModified: '2016-08-17T21:52:28.494Z'
+dateModified: '2016-08-17T21:59:53.145Z'
 title: WHAT DOES GOING FREELANCE GAIN YOU?
 id: 7bce1e7d-06fb-44f5-b0af-474e191684d1
 publisher: {}
@@ -42,7 +42,7 @@ I also believe that you gain a much more personal experience and therefore you c
 My name is Felix Collier, I am a creative freelance graphic designer based in Surrey. My aim is to help businesses reach their audience and engage with them through effective, clean and flawless design. I work to the highest possible standard to ensure you receive a quality product and experience.
 
 ## MY WORK
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/422ae926-af0a-46cb-a83d-16dfb74f525b.png)
+![Bridgman Logo & Website Visual](https://the-grid-user-content.s3-us-west-2.amazonaws.com/422ae926-af0a-46cb-a83d-16dfb74f525b.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4f97efa31ff582edebd0a217322d9ff3857fce6.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b254540-3d45-42ab-9c96-d42669fa0260.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4ffca7ea0b226c3c0227beac048f34ae5dc42b5.png)
