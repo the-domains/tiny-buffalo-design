@@ -1,14 +1,25 @@
-layout_spectrum: 0.34220558358356357
-typography_spectrum: 0.9678267834242433
+typography_spectrum: 0.29194343625567853
+content_rating:
+  adult: false
 color:
-  brandStrength: 0.8745722752064466
-  lightness: 0.5378949854057282
-  saturation: 0.353557419963181
-  rhythmicContrast: 0.5849323556758463
+  brandStrength: 0.7342769943643361
+  lightness: 0.9357507689855993
+  saturation: 0.6886711448896676
+  rhythmicContrast: 0.7912520268000662
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+layout_spectrum: 0.7836486208252609
+author:
+  name: Felix Collier
+  email: felix@tinybuffalodesign.co.uk
+  url: www.tinybuffalodesign.co.uk
+logo: null
 name: Tiny Buffalo Design
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/58d96a6a-48d7-47f8-919c-e592f7f2e704.png
+title: GRAPHIC DESIGN
+description: 'PROFESSIONAL STANDARD, LOW COST.'
