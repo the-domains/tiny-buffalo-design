@@ -13,6 +13,10 @@ color:
     - '#92CDCF'
     - '#EEEFF7'
 layout_spectrum: 0.4883814644999802
+author:
+  name: Felix Collier
+  email: felix@tinybuffalodesign.co.uk
+  url: www.tinybuffalodesign.co.uk
 logo: null
 name: Tiny Buffalo Design
 navigation:
