@@ -1,4 +1,6 @@
 typography_spectrum: 0.46763474703766406
+content_rating:
+  adult: false
 color:
   brandStrength: 0.33827232057228684
   lightness: 0.17452534311451018
@@ -11,6 +13,9 @@ color:
     - '#92CDCF'
     - '#EEEFF7'
 layout_spectrum: 0.4883814644999802
+logo: null
 name: Tiny Buffalo Design
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/58d96a6a-48d7-47f8-919c-e592f7f2e704.png
 title: GRAPHIC DESIGN
 description: 'PROFESSIONAL STANDARD, LOW COST.'
