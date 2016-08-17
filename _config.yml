@@ -15,6 +15,10 @@ color:
 layout_spectrum: 0.4883814644999802
 logo: null
 name: Tiny Buffalo Design
+navigation:
+  - name: About
+    url: 'http://tinybuffalodesign.co.uk-about'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/58d96a6a-48d7-47f8-919c-e592f7f2e704.png
 title: GRAPHIC DESIGN
