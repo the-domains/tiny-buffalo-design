@@ -1,16 +1,16 @@
-typography_spectrum: 0.9678267834242433
+typography_spectrum: 0.46763474703766406
 color:
-  brandStrength: 0.8745722752064466
-  lightness: 0.5378949854057282
-  saturation: 0.353557419963181
-  rhythmicContrast: 0.5849323556758463
+  brandStrength: 0.33827232057228684
+  lightness: 0.17452534311451018
+  saturation: 0.594380552880466
+  rhythmicContrast: 0.6402611050289124
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-layout_spectrum: 0.34220558358356357
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+layout_spectrum: 0.4883814644999802
 name: Tiny Buffalo Design
 title: GRAPHIC DESIGN
 description: 'PROFESSIONAL STANDARD, LOW COST.'
