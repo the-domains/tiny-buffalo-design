@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-17T19:05:53.132Z'
+datePublished: '2016-08-17T19:24:50.339Z'
 sourcePath: _posts/2016-08-17-what-does-going-freelance-gain-you.md
 author: []
 via: {}
@@ -14,7 +14,7 @@ metadata:
   author: []
   publisher: {}
   via: {}
-dateModified: '2016-08-17T19:05:52.612Z'
+dateModified: '2016-08-17T19:21:27.341Z'
 title: WHAT DOES GOING FREELANCE GAIN YOU?
 id: 7bce1e7d-06fb-44f5-b0af-474e191684d1
 publisher: {}
@@ -22,7 +22,7 @@ description: >-
   A freelance designer can offer you the same level of professional design as an
   agency but at a fraction of the cost. This is the main reason more and more
   people are deciding to go down this route.
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
@@ -37,9 +37,11 @@ A freelance designer can offer you the same level of professional design as an a
 
 I also believe that you gain a much more personal experience and therefore you can work more closely and directly with the designer and get a better understanding and feel for your designs, instead of passing everything on through an account manager.
 
-### ​ ABOUT ME
+## ​ABOUT ME
 
 My name is Felix Collier, I am a creative freelance graphic designer based in Surrey. My aim is to help businesses reach their audience and engage with them through effective, clean and flawless design. I work to the highest possible standard to ensure you receive a quality product and experience.
+
+## MY WORK
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/422ae926-af0a-46cb-a83d-16dfb74f525b.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4f97efa31ff582edebd0a217322d9ff3857fce6.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b254540-3d45-42ab-9c96-d42669fa0260.png)
