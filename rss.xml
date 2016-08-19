@@ -4,8 +4,15 @@
         <description><![CDATA[Tiny Buffalo Design]]></description>
         <link>https://thegrid.ai/tiny-buffalo-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 15:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 15:19:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tiny-buffalo-design/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e13d36ac-4d4d-4b0e-b3bd-bbe245fc15a1.png">]]></description>
+            <link>https://thegrid.ai/tiny-buffalo-design/767aa18e-14be-46bc-9829-3e6d4990976c/index.html</link>
+            <guid isPermaLink="false">767aa18e-14be-46bc-9829-3e6d4990976c</guid>
+            <pubDate>Fri, 19 Aug 2016 15:19:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/50e61548-249f-4fef-a2e6-dc585fd8ab43.png">]]></description>
@@ -53,13 +60,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18bf4eaa-6c9b-4f21-b7a1-4705d9410bfd.png">]]></description>
             <link>https://thegrid.ai/tiny-buffalo-design/8bdfc30f-bf2b-4731-bf1a-1d1a85331d74/index.html</link>
             <guid isPermaLink="false">8bdfc30f-bf2b-4731-bf1a-1d1a85331d74</guid>
-            <pubDate>Fri, 19 Aug 2016 15:14:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e13d36ac-4d4d-4b0e-b3bd-bbe245fc15a1.png">]]></description>
-            <link>https://thegrid.ai/tiny-buffalo-design/767aa18e-14be-46bc-9829-3e6d4990976c/index.html</link>
-            <guid isPermaLink="false">767aa18e-14be-46bc-9829-3e6d4990976c</guid>
             <pubDate>Fri, 19 Aug 2016 15:14:57 GMT</pubDate>
         </item>
     </channel>
