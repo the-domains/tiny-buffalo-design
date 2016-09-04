@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-01T21:24:18.181Z'
+datePublished: '2016-09-01T21:48:49.878Z'
 sourcePath: _posts/2016-08-17-what-does-going-freelance-gain-you.md
 author: []
 via: {}
-dateModified: '2016-09-01T21:24:17.584Z'
+dateModified: '2016-09-01T21:48:49.441Z'
 title: WHAT DOES GOING FREELANCE GAIN YOU?
 id: 7bce1e7d-06fb-44f5-b0af-474e191684d1
 publisher: {}
@@ -11,11 +11,10 @@ description: >-
   A freelance designer can offer you the same level of professional design as an
   agency but at a fraction of the cost. This is the main reason more and more
   people are deciding to go down this route.
+hasPage: true
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: what-does-going-freelance-gain-you/index.html
+_type: Blurb
 
 ---
 ## WHAT DOES GOING FREELANCE GAIN YOU?
